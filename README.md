@@ -1,5 +1,4 @@
 # Hi, I'm Tudor 👋
-tudorioan1
 
 Linux enthusiast 🐧 I like customizing things until they work exactly how I want.
 
@@ -23,6 +22,15 @@ Linux enthusiast 🐧 I like customizing things until they work exactly how I wa
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tudorioan1&theme=nord&hide_border=true" alt="Tudor's GitHub Streak" />
+</p>
+
+### Top Repositories & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudorioan1&layout=compact&theme=nord&hide_border=true" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tudorioan1&repo=dotfiles&theme=nord&hide_border=true" alt="Top Repo" />
 </p>
 
 ---
