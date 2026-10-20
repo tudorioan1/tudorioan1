@@ -18,7 +18,7 @@ Linux enthusiast 🐧 I like customizing things until they work exactly how I wa
 ## GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tudorioan1&show_icons=true&theme=tokyonight&hide_border=true" alt="Tudor's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tudorioan1&show_icons=true&theme=nord&hide_border=true" alt="Tudor's GitHub Stats" />
 </p>
 
 <p align="center">
