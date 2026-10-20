@@ -1,4 +1,5 @@
 # Hi, I'm Tudor 👋
+tudorioan1
 
 Linux enthusiast 🐧 I like customizing things until they work exactly how I want.
 
@@ -13,6 +14,16 @@ Linux enthusiast 🐧 I like customizing things until they work exactly how I wa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tudorioan1&show_icons=true&theme=tokyonight&hide_border=true" alt="Tudor's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tudorioan1&theme=tokyonight&hide_border=true" alt="Tudor's GitHub Streak" />
+</p>
 
 ---
 
