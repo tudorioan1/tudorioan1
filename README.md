@@ -46,6 +46,5 @@ Linux enthusiast 🐧 I like customizing things until they work exactly how I wa
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tudorioan1&repo=online-timer&theme=nord&hide_border=true" alt="Top Repo" />
 </p>
----
 
 ⭐ Feel free to check out my repos and star the ones you like!
